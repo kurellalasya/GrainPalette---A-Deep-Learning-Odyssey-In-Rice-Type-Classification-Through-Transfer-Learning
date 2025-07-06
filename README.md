@@ -3,7 +3,7 @@
 This project classifies five types of rice using CNN and MobileNetV4, deployed using Gradio.
 
 
-▶️ [Click here to watch the execution demo](./Grain_palette.ipynb%20-%20Colab%20-%20Google%20Chrome%202025-07-06%2019-00-17.mp4)
+▶Click here to watch execution video https://www.youtube.com/watch?v=tGXsOX55OII
 
 
 ##  Tech Stack
