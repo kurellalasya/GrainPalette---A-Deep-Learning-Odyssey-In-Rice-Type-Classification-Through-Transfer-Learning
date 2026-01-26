@@ -9,7 +9,6 @@ This project classifies five types of rice using CNN and MobileNetV4, deployed u
 ##  Tech Stack
 - TensorFlow / Keras
 - MobileNetV4
-- Gradio
 - Python
 
 ##  How to Run
